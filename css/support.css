@@ -1,10 +1,10 @@
 html {
     font-family: sans-serif;
     text-align: center;
-    padding: 20px;
+    padding: 20px 750px;
     background-color: whitesmoke;
 }
 
-div {
+li {
     margin: 10px;
 }
